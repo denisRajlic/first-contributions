@@ -12256,6 +12256,7 @@
 - [Steve Ctzbee](https://github.com/ctzbee)
 - [Kenny Santiago](https://github.com/cialespr)
 - [Mackey Lao](https://github.com/MackeyLao)
+- [Tomaz Mazej](https://github.com/TomazMazej)
 - [Sergio Peña](https://github.com/Sergiop79)
 - [Mahmoud Adel](https://github.com/mohmyo)
 - [Matt Silva](https://github.com/MattSilva)
